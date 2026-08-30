@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I’m Mahmoud Ahmed 👋
 
-<!--
-**mahmoudamoamen/mahmoudamoamen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
+I am a curiosity-driven Data Scientist who turns complex data into meaningful insights
 
-Here are some ideas to get you started:
+and builds end-to-end apps to solve real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## ⭐ Featured Work
+
+- **[NYC Trip Duration Prediction](https://github.com/youssefHosni/Data-Science-Portofolio)**
+  
+  ● Engineered an end-to-end regression pipeline in Python across 1M+ NYC trip records, achieving a 0.69 validation R^2 score (0.72 train R^2) using XGBoost tuned via Optuna.
+  
+  ● Developed custom OOP transformers (TimeHandle, CoordinateHandle) integrated into Scikit-learn pipelines to automate spatial coordinate clustering, distance calculations, temporal flags (is_rush), and target log transformations.
+  
+  ● Prevented target data leakage by identifying and removing dependent variables (e.g., speed calculations) during exploratory data analysis.
+  
+  ● Structured project repository using production-ready modular architecture (src/ modules, dynamic pathing, and config file management) to ensure reproducible experiment tracking.
+
+## 🛠️ Languages & Tools
+
+Python · SQL · Numpy · 
+Scikit-learn · Pandas ·  Git ·
+
+---
