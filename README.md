@@ -8,7 +8,7 @@ and builds end-to-end apps to solve real-world problems.
 
 ## ⭐ Featured Work
 
-- **[NYC Trip Duration Prediction](https://github.com/youssefHosni/Data-Science-Portofolio)**
+- **[NYC Trip Duration Prediction](https://github.com/mahmoudamoamen/NYC_trip_duration)**
   
   ● Engineered an end-to-end regression pipeline in Python across 1M+ NYC trip records, achieving a 0.69 validation R^2 score (0.72 train R^2) using XGBoost tuned via Optuna.
   
