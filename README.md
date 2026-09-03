@@ -18,7 +18,9 @@ and builds end-to-end apps to solve real-world problems.
   
   ● Structured project repository using production-ready modular architecture (src/ modules, dynamic pathing, and config file management) to ensure reproducible experiment tracking.
 
-  -**[Cyclistic Customer Behavior & Conversion Analytics](https://github.com/mahmoudamoamen/Cyclistic-Customer-Behavior)**
+
+- **[Cyclistic Customer Behavior & Conversion Analytics](https://github.com/mahmoudamoamen/Cyclistic-Customer-Behavior)**
+  
 ● Analyzed 1 M+ rider records over 12+ tables using SQL to uncover key behavioral differences between casual riders and annual members.
 
 ● Identified distinct usage patterns, discovering that casual riders dominate long-duration weekend trips on "docked bikes," while annual members utilize bikes for short-duration commutes.
